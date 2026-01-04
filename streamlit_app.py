@@ -133,7 +133,7 @@ if not day_options:
     
     **Stay tuned for Day 1!** The challenge content will appear here as we progress through each day.
     
-    Share your journey on social with **#30DaysOfAI** 🚀
+    Share your journey on social with **#30DaysOfAI** 🚀 Tonatiuhq
     """)
     
     st.info("💡 **Tip**: Daily challenges will appear in the sidebar once they're published.")
