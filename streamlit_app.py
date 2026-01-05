@@ -96,44 +96,50 @@ if not day_options:
     st.title("🚀 Welcome to the 30 Days of AI Challenge!")
     
     st.markdown("""
-    Welcome! 👋
+    ¡Bienvenidos! 👋
+
+    Prepárate para un emocionante viaje para crear aplicaciones basadas en IA con **Streamlit** y **Snowflake**.
     
-    Get ready to embark on an exciting journey to build AI-powered apps with **Streamlit** and **Snowflake**.
+    ### 🎯 Qué aprenderás
     
-    ### 🎯 What You'll Learn
+    Durante los próximos 30 días, progresarás desde conceptos básicos hasta técnicas avanzadas:
     
-    Over the next 30 days, you'll progress from basic concepts to advanced techniques:
+    - 💬 **Semana 1 (Días 1-7)**: Fundamentos: Tus primeras llamadas LLM, streaming y almacenamiento en caché
     
-    - 💬 **Week 1 (Days 1-7)**: The Basics - Your first LLM calls, streaming, and caching
-    - 🗨️ **Week 2 (Days 8-14)**: Building Chatbots - Chat interfaces and session state
-    - 📚 **Week 3 (Days 15-21)**: RAG Applications - Retrieval-Augmented Generation
-    - 🚀 **Week 4 (Days 22-30)**: Advanced Features - Multimodal AI, Agents, and Deployment
+    - 🗨️ **Semana 2 (Días 8-14)**: Creación de chatbots: Interfaces de chat y estado de sesión
     
-    ### 📅 The Challenge Starts Soon!
+    - 📚 **Semana 3 (Días 15-21)**: Aplicaciones RAG: Recuperación-Generación Aumentada
     
-    Daily challenges will be posted as we progress through the 30-day journey. Each day, you'll find:
-    - 📝 A new coding challenge
-    - 💡 Detailed explanations
-    - 🎓 Key concepts and best practices
+    - 🚀 **Semana 4 (Días 22-30)**: Funciones avanzadas: IA multimodal, agentes e implementación
     
-    ### 🛠️ Prerequisites
+    ### 📅 ¡El desafío comienza pronto!
     
-    - **[Free Snowflake Trial Account](https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2&utm_source=streamlit-campaign&utm_campaign=30daysofai)** with Cortex AI enabled
+    Se publicarán desafíos diarios a medida que avancemos en el recorrido de 30 días. Cada día encontrarás:
+    - 📝 Un nuevo desafío de programación
+    - 💡 Explicaciones detalladas
+    - 🎓 Conceptos clave y mejores prácticas
+    
+    ### 🛠️ Requisitos previos
+    
+    - **[Cuenta de prueba gratuita de Snowflake](https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2&utm_source=streamlit-campaign&utm_campaign=30daysofai)** con Cortex AI habilitado
     - **Python 3.10+**
-    - Basic Python knowledge
+    - Conocimientos básicos de Python
     
-    ### 🔗 Get Ready
+    ### 🔗 Prepárate
     
-    Make sure you have:
-    1. Installed the required dependencies (`pip install -r requirements.txt`)
-    2. Have your Snowflake credential ready
-    3. A curious mind and enthusiasm to learn! 🎉
+    Asegúrate de:
+    
+    1. Tener instaladas las dependencias necesarias (`pip install -r requirements.txt`)
+    
+    2. Tener lista tu credencial de Snowflake
+    
+    3. ¡Una mente curiosa y ganas de aprender! 🎉
     
     ---
     
-    **Stay tuned for Day 1!** The challenge content will appear here as we progress through each day.
+    **¡No se pierdan el Día 1!** El contenido del desafío aparecerá aquí a medida que avancemos cada día.
     
-    Share your journey on social with **#30DaysOfAI** 🚀
+    Compartan su experiencia en redes sociales con **#30DaysOfAI** 🚀
     """)
     
     st.info("💡 **Tip**: Daily challenges will appear in the sidebar once they're published.")
